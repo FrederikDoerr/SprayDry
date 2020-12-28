@@ -3,7 +3,7 @@
 '''
 Created Sep - Nov 2019
 DataLogger BME680
-@author: Frederik Doerr
+@author: Frederik Doerr (CMAC, frederik.doerr@strath.ac.uk, GitHub: https://github.com/frederik-d)
 
 Setup:
 Find Ard: ls -l /dev/ttyUSB*
