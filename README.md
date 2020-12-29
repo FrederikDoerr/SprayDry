@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/frederik-d/SprayDry">
-    <img src="SprayDry_Graphical_Abstract.jpg" alt="Logo" width="942" height="362">
+    <img src="SprayDry_Graphical_Abstract.jpg" alt="Logo" width="471" height="181">
   </a>
 </p>
 
@@ -30,7 +30,7 @@ Data repository: [https://doi.org/10.15129/dcb859db-fe0d-4a56-b001-3f3d7ac6c44a]
 ## Files:
 * BME680_SensorMount (folder) with BME680_SensorMount_S1 (design file for 3D printing BME680 Exhaust Gas Sensor Mount)  
 * bme680_SprayDry (folder) with Arduino files for SPI communication. See wiring diagram in SprayDry_BME680_Fig. Additional details on Adafruit BME680 Breakout: https://www.adafruit.com/product/3660
-* SprayDry_BME680_DataLogger.py: data collection from Arduino nano with connected Adafruit BME680 Breakout.
-* SprayDry_RS232_DataLogger.py: data collection for B-290 Mini-Spray Dryer (Büchi Labortechnik, Switzerland)
-* XS_RS232_DataLogger.py: data collection for XS60002S balance (Mettler Toledo, Switzerland, Fig. 3 P11).  
+* SprayDry_BME680_DataLogger.py: data collection from Arduino nano with connected Adafruit BME680 Breakout (Exhaust Gas Sensor, Publication Fig. 3 P9).
+* SprayDry_RS232_DataLogger.py: data collection for B-290 Mini-Spray Dryer (Büchi Labortechnik, Switzerland, Publication Fig. 3 P3/P5).
+* XS_RS232_DataLogger.py: data collection for XS60002S balance (Mettler Toledo, Switzerland, Publication Fig. 3 P11).  
 
