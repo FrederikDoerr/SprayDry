@@ -2,7 +2,7 @@
 
 '''
 Created Sep - Nov 2019
-DataLogger B290
+DataLogger Mini Spray Dryer B-290 
 @author: Frederik Doerr (CMAC, frederik.doerr@strath.ac.uk, GitHub: https://github.com/frederik-d)
 
 Setup (Raspbian):
