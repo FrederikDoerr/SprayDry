@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/frederik-d/SprayDry">
-    <img src="SprayDry_Graphical_Abstract.jpg" alt="Logo" width="471" height="181">
+    <img src="SprayDry_Graphical_Abstract.jpg" alt="Logo" width="707" height="272">
   </a>
 </p>
 
