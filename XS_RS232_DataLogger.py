@@ -120,14 +120,6 @@ def portIsUsable(portName):
     except:
         return False
 
-def varExist(var):
-    try:
-        var
-    except NameError:
-        return False
-    else:
-        return True
-
 
 if __name__ == '__main__': 
     multiprocessing.log_to_stderr()
